@@ -1,4 +1,4 @@
-#THIS IS A FORK CHANGING EF6 PROVIDER FROM System.Data.SqlClient TO Microsoft.Data.SqlClient
+# THIS IS A FORK CHANGING EF6 PROVIDER FROM System.Data.SqlClient TO Microsoft.Data.SqlClient
 
 # Tanneryd.BulkOperations.EF6/Tanneryd.BulkOperations.EFCore
 
